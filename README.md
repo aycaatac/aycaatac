@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Ayça Ataç, I am a junior Computer Science student at Bilkent University.' 
+### Hi there 👋 My name is Ayça Ataç, I am a junior Computer Science student at Bilkent University. 
 
 <!--
 **aycaatac/aycaatac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
